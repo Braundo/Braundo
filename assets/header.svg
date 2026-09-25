@@ -42,21 +42,14 @@
 <rect x="-3" y="-3" width="6" height="6" class="acc"><animateMotion dur="3.6s" begin="-3.50s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#t-w6"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="3.6s" begin="-3.50s" repeatCount="indefinite"/></rect>
 <rect x="-3" y="-3" width="6" height="6" class="acc"><animateMotion dur="3.6s" begin="-5.30s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#t-w6"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="3.6s" begin="-5.30s" repeatCount="indefinite"/></rect>
 <rect x="592" y="72" width="16" height="16" fill="#111111" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/><rect x="597" y="77" width="6" height="6" class="acc"/>
-<text class="mono lbl" x="600" y="60" text-anchor="middle">W-1</text>
 <rect x="592" y="172" width="16" height="16" fill="#111111" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/><rect x="597" y="177" width="6" height="6" class="acc"/>
-<text class="mono lbl" x="600" y="160" text-anchor="middle">W-2</text>
 <rect x="592" y="272" width="16" height="16" fill="#111111" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/><rect x="597" y="277" width="6" height="6" class="acc"/>
-<text class="mono lbl" x="600" y="260" text-anchor="middle">W-3</text>
 <rect x="832" y="72" width="16" height="16" fill="#111111" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/><rect x="837" y="77" width="6" height="6" class="acc"/>
-<text class="mono lbl" x="840" y="60" text-anchor="middle">W-4</text>
 <rect x="832" y="172" width="16" height="16" fill="#111111" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/><rect x="837" y="177" width="6" height="6" class="acc"/>
-<text class="mono lbl" x="840" y="160" text-anchor="middle">W-5</text>
 <rect x="832" y="272" width="16" height="16" fill="#111111" stroke="#fff" stroke-opacity=".8" stroke-width="1.5"/><rect x="837" y="277" width="6" height="6" class="acc"/>
-<text class="mono lbl" x="840" y="260" text-anchor="middle">W-6</text>
 <g class="ring"><polygon points="720.00,132.00 757.53,150.07 766.80,190.68 740.83,223.25 699.17,223.25 673.20,190.68 682.47,150.07" fill="none" stroke="#fff" stroke-opacity=".4" stroke-dasharray="10 7" stroke-linejoin="round"/></g>
 <path d="M720.00 150.00L720.00 142.00M743.45 161.30L749.71 156.31M749.25 186.68L757.05 188.46M733.02 207.03L736.49 214.24M706.98 207.03L703.51 214.24M690.75 186.68L682.95 188.46M696.55 161.30L690.29 156.31" stroke="#fff" stroke-opacity=".55" stroke-width="1.5" fill="none"/>
 <polygon points="720.00,156.00 738.76,165.04 743.40,185.34 730.41,201.62 709.59,201.62 696.60,185.34 701.24,165.04" fill="#111111" stroke="#fff" stroke-width="2" stroke-linejoin="round"/><polygon points="720.00,169.00 728.60,173.14 730.72,182.45 724.77,189.91 715.23,189.91 709.28,182.45 711.40,173.14" class="acc" stroke-linejoin="round"/>
-<text class="mono lbl" x="720" y="252" text-anchor="middle">CONTROL-PLANE</text>
 <text class="mono in" x="60" y="72" font-size="13" fill="#ff2d20">~/braundo</text>
 <text class="name in2" x="56" y="168">BRAUNDO</text>
 <rect x="60" y="192" width="48" height="4" class="acc in3"/>
