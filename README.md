@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/aaronbraundmeier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aaron@braundmeier.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Braundo&style=flat-square&color=ff2d20&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=Braundo&style=flat-square&color=526cfe&label=profile+views" />
 
 </div>
 
@@ -37,16 +37,16 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2d20&icon_color=ff7a70&text_color=8b949e" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff2d20&icon_color=d92316&text_color=57606a" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=526cfe&icon_color=8ea1ff&text_color=8b949e" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=526cfe&icon_color=3f51b5&text_color=57606a" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=ff2d20&text_color=8b949e" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=ff2d20&text_color=57606a" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=526cfe&text_color=8b949e" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=526cfe&text_color=57606a" height="165" />
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Braundo&hide_border=true&background=00000000&ring=ff2d20&fire=ff7a70&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
-  <img src="https://streak-stats.demolab.com?user=Braundo&hide_border=true&background=00000000&ring=ff2d20&fire=d92316" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Braundo&hide_border=true&background=00000000&ring=526cfe&fire=8ea1ff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=Braundo&hide_border=true&background=00000000&ring=526cfe&fire=3f51b5" />
 </picture>
 </div>
