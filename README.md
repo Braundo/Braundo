@@ -37,25 +37,16 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Braundo&show_icons=true&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=60a5fa&text_color=8b949e" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Braundo&show_icons=true&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=2563eb&text_color=57606a" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=60a5fa&text_color=8b949e" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=2563eb&text_color=57606a" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=8b949e" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=57606a" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=8b949e" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=00000000&title_color=3b82f6&text_color=57606a" height="165" />
 </picture>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Braundo&hide_border=true&background=00000000&ring=3b82f6&fire=60a5fa&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
   <img src="https://streak-stats.demolab.com?user=Braundo&hide_border=true&background=00000000&ring=3b82f6&fire=2563eb" />
-</picture>
-</div>
-
-## Contribution snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Braundo/Braundo/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Braundo/Braundo/output/snake.svg" alt="snake" />
 </picture>
 </div>
