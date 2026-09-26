@@ -40,10 +40,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=526cfe&icon_color=8ea1ff&text_color=8b949e" />
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Braundo&custom_title=Braundo+GitHub+Stats&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=526cfe&icon_color=3f51b5&text_color=57606a" height="165" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=0d1117&title_color=526cfe&text_color=8b949e" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&bg_color=ffffff&title_color=526cfe&text_color=57606a" height="165" />
-</picture>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Braundo&layout=compact&hide=html,css&hide_border=true&border_radius=8&bg_color=0e0f16&title_color=8ea1ff&text_color=c9d1d9&v=2" height="165" />
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Braundo&hide_border=true&background=00000000&ring=526cfe&fire=8ea1ff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" />
