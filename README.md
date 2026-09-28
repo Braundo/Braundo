@@ -54,6 +54,9 @@
 <a href="https://github.com/anthropics/claude-code"><img src="assets/toolbox/claude.png" alt="Claude" title="Claude" width="48" height="48" /></a>
 <a href="https://github.com/obsidianmd/obsidian-releases"><img src="assets/toolbox/obsidian.png" alt="Obsidian" title="Obsidian" width="48" height="48" /></a>
 <a href="https://github.com/sublimehq"><img src="assets/toolbox/sublime.png" alt="Sublime Text" title="Sublime Text" width="48" height="48" /></a>
+<a href="https://github.com/cert-manager/cert-manager"><img src="assets/toolbox/cert-manager.png" alt="cert-manager" title="cert-manager" width="48" height="48" /></a>
+<a href="https://github.com/kubernetes-sigs/headlamp"><img src="assets/toolbox/headlamp.png" alt="Headlamp" title="Headlamp" width="48" height="48" /></a>
+<a href="https://github.com/metallb/metallb"><img src="assets/toolbox/metallb.png" alt="MetalLB" title="MetalLB" width="48" height="48" /></a>
 
 </div>
 
