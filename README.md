@@ -40,7 +40,21 @@
 ## Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,gcp,linux,bash,go,python,git,githubactions,prometheus,grafana,argocd&perline=15" />
+
+<a href="https://github.com/kubernetes/kubernetes"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+<a href="https://github.com/docker"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://github.com/argoproj/argo-cd"><img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" /></a>
+<a href="https://github.com/aws"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://github.com/Azure"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+<a href="https://github.com/GoogleCloudPlatform"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+<a href="https://github.com/torvalds/linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<a href="https://github.com/ghostty-org/ghostty"><img src="https://img.shields.io/badge/Ghostty-1D1F21?style=for-the-badge&logo=ghostty&logoColor=white" /></a>
+<a href="https://github.com/zsh-users/zsh"><img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" /></a>
+<a href="https://github.com/ohmyzsh/ohmyzsh"><img src="https://img.shields.io/badge/Oh_My_Zsh-F1DE00?style=for-the-badge&logoColor=black" /></a>
+<a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /></a>
+<a href="https://github.com/obsidianmd/obsidian-releases"><img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+<a href="https://github.com/sublimehq"><img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" /></a>
+
 </div>
 
 ## Stats
