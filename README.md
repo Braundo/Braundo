@@ -24,6 +24,8 @@
 <a href="https://www.credly.com/badges/9d600372-f703-4368-9185-91a103699988"><img src="assets/certs/cgoa.png" alt="CGOA" title="CGOA" width="110" height="110" /></a>
 <a href="https://www.credly.com/badges/6ca18c54-d86b-4ac7-968f-e80cc0091377"><img src="assets/certs/aws-practitioner.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="110" height="110" /></a>
 <a href="https://www.credly.com/badges/a6511996-1f8b-4065-ae50-035be87f9e6c"><img src="assets/certs/gcp-cybersecurity.png" alt="Google Cloud Cybersecurity Certificate" title="Google Cloud Cybersecurity Certificate" width="110" height="110" /></a>
+<a href="https://learn.microsoft.com/en-us/users/aaronbraundmeier-3242/credentials/2087fdfa004ca072"><img src="assets/certs/az900.png" alt="Microsoft Certified: Azure Fundamentals" title="Microsoft Certified: Azure Fundamentals" width="110" height="110" /></a>
+<a href="https://www.apollographql.com/tutorials/certifications/b41c1f00-1708-47e2-b838-bc515c8751b8"><img src="assets/certs/apollo.png" alt="Apollo Graph Associate" title="Apollo Graph Associate" width="110" height="110" /></a>
 
 </div>
 
